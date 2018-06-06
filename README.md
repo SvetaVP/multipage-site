@@ -1,0 +1,1 @@
+Small site, it size is just a few pages. On all pages footer and header are designed in one style. The project is compiled using TARS (https://github.com/tars/tars-cli), it used a map and a slick carousel (http://kenwheeler.github.io/slick/).
